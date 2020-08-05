@@ -1,0 +1,12 @@
+This script is for roblox only, get off my github.
+
+Upd 1:
+Added "whatsactive" and "antigroundhit".
+
+Upd 2:
+Changed Cmds Handle, added "args" to be able to set speed and say player names in the cmds.
+
+Upd 2.5: 
+Removed "speed".
+Added "ws"/"walkspeed" then number to set walkspeed to a custom number.
+Fixed up "cmds" for what i did today.
