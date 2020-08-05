@@ -1,5 +1,9 @@
 This script is for roblox only, get off my github.
 
+Update 2.5.9:
+Added "runspeed"/"rs" then number to set shift speed to custom number. (Works more efficiently then "walkspeed"/"ws")
+Also added "normalws"/"nws" and "normalrs"/"nrs" to set speeds back to normal.
+
 Upd 2.5: 
 Removed "speed".
 Added "ws"/"walkspeed" then number to set walkspeed to a custom number.
