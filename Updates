@@ -1,5 +1,12 @@
 This script is for roblox only, get off my github.
 
+Update 4:
+Added "goto" player to teleport you to the player. (Needs to be fixed, only works sometime)
+Added Esp for some people.
+Added "z" key for noclip.
+Updated Cmds List.
+Fixed "view" so that when player leaves the game it correctly puts the camera back to your player.
+
 Update 3:
 Added "camlock"/"cl" player to lock camera onto that player.
 Added "uncamlock"/"uncl" Stop camlocking the current player.
