@@ -1,5 +1,10 @@
 This script is for roblox only, get off my github.
 
+Update 4.5:
+Fixed "goto" so it correctly teleports player to the player named.
+Fixed almost all cmds so if you say the cmd and something after and its not need it wont execute until said correctly.
+Added "ad"/"advertisement" to advertise the script creator and discord server.
+
 Update 4:
 Added "goto" player to teleport you to the player. (Needs to be fixed, only works sometime)
 Added Esp for some people.
