@@ -1,5 +1,13 @@
 This script is for roblox only, get off my github.
 
+Update 5:
+Re-Coded ESP.
+Removed "ad" command. (as of right now)
+Removed Teleport Keys.
+Added R to Reset.
+Removed Rainbowhats.
+Removed WhatsActive
+
 Update 4.5:
 Fixed "goto" so it correctly teleports player to the player named.
 Fixed almost all cmds so if you say the cmd and something after and its not need it wont execute until said correctly.
